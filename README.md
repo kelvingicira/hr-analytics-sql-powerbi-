@@ -10,7 +10,7 @@
  - [Recommendations](#recommendations)
 
 
-### Project overview
+### Project Overview
 
 This project focuses on HR data analysis using SQL for data cleaning, transformation, and deriving meaningful insights. The dataset includes employee records such as ID, birth date, hire date, termination date, gender, department, job title, and location.
 The goal is to support HR decision-making by answering critical business questions related to employee demographics, attrition, hiring trends, tenure, and workforce composition.
