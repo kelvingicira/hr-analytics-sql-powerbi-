@@ -5,9 +5,9 @@
 - [Tools Used](#tools-used)
 -   [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
- - [Result/findings](result/findings)
--  [Limitations](#limitations)
- - [Recommendations](#recommendations)
+ - [Result/Findings](#resultfindings)
+-   [Limitations](#limitations)
+ -  [Recommendations](#recommendations)
 
 
 ### Project Overview
