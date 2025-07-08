@@ -6,8 +6,9 @@
 -   [Data Cleaning & Preparation](#data-cleaning--preparation)
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+-  [Limitations](#limitations)
 
-- [Limitations](#limitations)
+- 
 - [Recommendations](#recommendations)
 
 
