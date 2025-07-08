@@ -117,7 +117,7 @@ FROM hr
 WHERE term date IS NULL
 GROUP BY AGE_GROUP;
 
-### Result/findings
+## Result/Findings
 The Analysis result are summarized as follows:
 1. Most employees are aged 25–44, indicating a mid-career workforce.
 
@@ -131,7 +131,7 @@ The Analysis result are summarized as follows:
 
 6. Job titles and departments like Sales and Engineering have the most employees.
 
-### Recommendations
+## Recommendations
 Based on the recommendations, we recommend the following actions:
 
 
@@ -143,7 +143,7 @@ Based on the recommendations, we recommend the following actions:
 - Focus on departments with low tenure for potential management or culture improvements.
 
 
-### Limitations
+## Limitations
 1. Date format inconsistencies in birthdate, hire_date, and termdate required manual cleaning, which may not be fully error-proof.
 
 2. Some termdate values were missing or blank, which could affect the accuracy of attrition and tenure analysis.
