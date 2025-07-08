@@ -3,11 +3,12 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Tools Used](#tools-used)
-- [Data Cleaning](#data-cleaning)
+-- [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Dashboard Highlights](#dashboard-highlights)
 - [Limitations](#limitations)
 - [Recommendations](#recommendations)
+
 
 ---
 
