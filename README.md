@@ -10,12 +10,12 @@
  -  [Recommendations](#recommendations)
 
 
-### Project Overview
+## Project Overview
 
 This project focuses on HR data analysis using SQL for data cleaning, transformation, and deriving meaningful insights. The dataset includes employee records such as ID, birth date, hire date, termination date, gender, department, job title, and location.
 The goal is to support HR decision-making by answering critical business questions related to employee demographics, attrition, hiring trends, tenure, and workforce composition.
 
-### Datasource
+## Datasource
 
 The dataset used in this project was sourced from the following GitHub repository:
 
@@ -23,13 +23,13 @@ The dataset used in this project was sourced from the following GitHub repositor
 
 All credit for the dataset goes to the original author.
 
-### Tools used
+## Tools used
 
 - WorkBench (MySQL Workbench) – For SQL-based data cleaning, transformation, and exploratory analysis
 - Power BI – For creating dynamic dashboards and data visualizations
 - GitHub – For project version control and hosting the portfolio
-- 
-  ### Data Cleaning & Preparation
+  
+  ## Data Cleaning & Preparation
 The raw HR dataset required several cleaning steps to make it suitable for analysis. All data cleaning was performed using MySQL Workbench.
 
  Key Cleaning Steps:
@@ -61,7 +61,7 @@ Filtered out employees with future termdate values (if any).
 
 Focused many queries on active employees by filtering with the term date IS NULL.
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 During the EDA phase, the following business and analytical questions were explored using SQL:
 
@@ -99,7 +99,7 @@ What is the net headcount change over the years?
 How does the gender distribution vary by department and job title?
 
 ### Data Analysis
-include some interesting codes/features worked with
+include some interesting codes/features that I worked with
  ```ALTER TABLE HR ADD COLUMN Age INT;
 UPDATE HR SET AGE = TIMESTAMPDIFF(YEAR, birthdate, CURDATE());
 
