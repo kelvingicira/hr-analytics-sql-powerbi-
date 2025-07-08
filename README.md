@@ -1,8 +1,24 @@
-# hr-analytics-sql-powerbi-
+# hr-analytics-sql-powerbi
 
-## Table of contents
-- [Project overview](Project-overview)
-- [Recommendations](Recommendations)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Dashboard Highlights](#dashboard-highlights)
+- [Limitations](#limitations)
+- [Recommendations](#recommendations)
+
+---
+
+## Recommendations
+- Address high turnover in specific departments through surveys or exit interviews.
+- Promote diversity and inclusion in leadership and technical roles.
+- Expand remote work opportunities to attract wider talent pools.
+
+
+
+
 
 ### Project overview
 
@@ -126,7 +142,7 @@ The Analysis result are summarized as follows:
 6. Job titles and departments like Sales and Engineering have the most employees.
 
 ### Recommendations
-Based on the recommendations we recommend the following actions:
+Based on the recommendations, we recommend the following actions:
 
 
 
