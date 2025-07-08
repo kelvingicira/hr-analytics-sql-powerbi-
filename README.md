@@ -4,6 +4,7 @@
 - [Project Overview](#project-overview)
 - [Tools Used](#tools-used)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Recommendations](#recommendations)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 -  [Result/Findings](#resultfindings)
 - [Limitations](#limitations)
