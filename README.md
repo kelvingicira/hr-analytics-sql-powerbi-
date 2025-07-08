@@ -1,4 +1,15 @@
 # hr-analytics-sql-powerbi
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Datasource](#datasource)
+- [Tools Used](#tools-used)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Result/Findings](#resultfindings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
