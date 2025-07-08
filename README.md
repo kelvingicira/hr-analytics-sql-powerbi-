@@ -5,8 +5,7 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Result/Findings](#resultfindings)
-- [Recommendations](#recommendations)
+-  [Result/Findings](#resultfindings)
 - [Limitations](#limitations)
 
 
