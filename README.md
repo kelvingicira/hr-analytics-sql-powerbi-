@@ -4,25 +4,10 @@
 - [Project Overview](#project-overview)
 - [Tools Used](#tools-used)
 -   [Data Cleaning & Preparation](#data-cleaning--preparation)
-
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-
-- [Limitations](#Limitations)
- 
-
-  
-- [Recommendations](#recommendations)
-
-
----
-
-## Recommendations
-- Address high turnover in specific departments through surveys or exit interviews.
-- Promote diversity and inclusion in leadership and technical roles.
-- Expand remote work opportunities to attract wider talent pools.
-
-
-
+ - [Result/findings](result/findings)
+-  [Limitations](#limitations)
+ - [Recommendations](#recommendations)
 
 
 ### Project overview
